@@ -1,1 +1,0 @@
-[{"id":"2","uniqueid":"00:17:88:5E:D3:02-02","name":"lights","mapType":"cmdDevice","deviceType":"switch","offUrl":"[{\"item\":\"/bin/python /root/python/ledstripOFF.py\",\"type\":\"cmdDevice\"}]","onUrl":"[{\"item\":\"/bin/python /root/python/ledstripON.py\",\"type\":\"cmdDevice\"}]","inactive":false,"noState":false,"offState":false,"deviceState":{}}]
